@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{153:function(l){l.exports=JSON.parse('{"allTagsPath":"/tgx-lean.github.io/site/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/tgx-lean.github.io/site/blog/tags/hello"}')}}]);
