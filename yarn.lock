@@ -1120,7 +1120,7 @@
     docsearch.js "^2.6.3"
     eta "^1.1.1"
 
-"@docusaurus/types@^2.0.0-alpha.58":
+"@docusaurus/types@^2.0.0-alpha.50", "@docusaurus/types@^2.0.0-alpha.58":
   version "2.0.0-alpha.58"
   resolved "https://registry.yarnpkg.com/@docusaurus/types/-/types-2.0.0-alpha.58.tgz#d7b0264e79549790c42d2781998b437bb573a294"
   integrity sha512-OSkxoLwWJMhEHa4s6SXVCjfGwYm21yF6ZggoUo6kz+qqslTgF/JcPCVF9Y1Hf6bJJxUisi+ZHrHKEC6k4pphPA==
@@ -3385,6 +3385,14 @@ docsearch.js@^2.6.3:
     stack-utils "^1.0.1"
     to-factory "^1.0.0"
     zepto "^1.2.0"
+
+docusaurus-plugin-auto-sidebars@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/docusaurus-plugin-auto-sidebars/-/docusaurus-plugin-auto-sidebars-1.0.7.tgz#4dc1bccd14657edd67eaf220a5747e10c59f56ca"
+  integrity sha512-NeGrTV9ZpyiClQjnh+eIwo08yEwiv65TJW7hvftFDeJ5UHcD32bfxTKWbzJq4OWBvJok57IJoXWJYhdN4KIHgw==
+  dependencies:
+    "@docusaurus/types" "^2.0.0-alpha.50"
+    js-yaml "^3.13.1"
 
 dom-converter@^0.2:
   version "0.2.0"
