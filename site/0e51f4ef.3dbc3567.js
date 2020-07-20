@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{140:function(o){o.exports=JSON.parse('{"allTagsPath":"/tgx-lean.github.io/site/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/tgx-lean.github.io/site/blog/tags/facebook"}')}}]);

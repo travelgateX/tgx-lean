@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{162:function(s){s.exports=JSON.parse('{"allTagsPath":"/tgx-lean.github.io/site/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/tgx-lean.github.io/site/blog/tags/docusaurus"}')}}]);

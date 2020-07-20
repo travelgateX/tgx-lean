@@ -1,8 +1,8 @@
 module.exports = {
   title: 'TGX Lean Practices site',
   tagline: 'The tagline of my site',
-  url: 'https://docs.travelgatex.com/tgx-lean.github.io/site/',
-  baseUrl: '/tgx-lean.github.io/site/',
+  url: 'https://docs.travelgatex.com/tgx-lean/site/',
+  baseUrl: '/tgx-lean/site/',
   favicon: 'img/favicon.ico',
   organizationName: 'TravelgateX', // Usually your GitHub org/user name.
   projectName: 'tgx-lean', // Usually your repo name.
