@@ -16,7 +16,7 @@ jobs:
         node-version: '12'
     - run: npm install
     - run: npx docusaurus build --out-dir site
-    - name: Commit to GH Pages Branch
+    - name: Publish site
       uses: stefanzweifel/git-auto-commit-action@v4.4.0
       with:
-        commit_message: Site publish after commit to master
+        commit_message: Site publish after commit to gh-pages
