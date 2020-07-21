@@ -21,4 +21,4 @@ jobs:
       with:
         commit_message: Site publish after commit to master
         branch: gh-pages
-        file_pattern: site/
+        file_pattern: site/**/*
