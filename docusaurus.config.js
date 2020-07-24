@@ -7,6 +7,7 @@ module.exports = {
   organizationName: 'TravelgateX', // Usually your GitHub org/user name.
   projectName: 'tgx-lean', // Usually your repo name.
   themeConfig: {
+    disableDarkMode: true,
     navbar: {
       title: 'TGX Lean Practices',
       logo: {
@@ -50,7 +51,7 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'organization',
+          homePageId: 'teams-organization',
           sidebarPath: require.resolve('./sidebars.auto.js'),
           // Please change this to your repo.
         },

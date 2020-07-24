@@ -1,7 +1,7 @@
 
 module.exports = {
   docs: [
-    "organization",
+    "teams-organization",
     "objectives-and-tasks",
     "agile-practices"
 ]

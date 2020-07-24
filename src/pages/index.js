@@ -9,10 +9,10 @@ import styles from './styles.module.css';
 const features = [
   {},
   {
-    title: <>Faster, Stronger, Happier</>,
+    title: <>Faster, Stronger, Happier.</>,
     description: (
       <>
-        <p>This is the way we roll. We know how to do it and we are proud of it.</p><p>That's why we write it down: to always have it present and to help understand the TGX way of doing things.</p>
+        <p>This is the way we get things done.</p>
       </>
     ),
   },
