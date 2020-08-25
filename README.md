@@ -26,4 +26,4 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Just PR your changes to gh-pages branch, once merged, a GitHub Action will take care of the rest.
+Just PR your changes to gh-pages branch, once merged, a GitHub Action will take care of the rest. Visit [deployed site](https://docs.travelgatex.com/tgx-lean/site/)

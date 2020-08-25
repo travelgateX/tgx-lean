@@ -7,14 +7,16 @@ module.exports = {
   organizationName: 'TravelgateX', // Usually your GitHub org/user name.
   projectName: 'tgx-lean', // Usually your repo name.
   themeConfig: {
-    disableDarkMode: true,
+    colorMode: {
+      disableSwitch: true
+    },
     navbar: {
       title: 'TGX Lean Practices',
       logo: {
         alt: 'TravelgateX',
         src: 'img/logo.svg',
       },
-      links: [
+      items: [
         {
           to: 'docs/',
           activeBasePath: 'docs',
